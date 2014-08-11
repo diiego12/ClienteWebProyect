@@ -20,8 +20,10 @@
             <div class="col-md-1"><button type="button" class="btn btn-default">Compañia Discografica</button></div>
         </div>
         
-        <div class="tab-pane" id="Discos">
-            
+        <div class="tab-pane">
+                    <div class="tab-pane" id="Discos">
+                           
+                    </div>
         </div>
     </body>
 </html>
