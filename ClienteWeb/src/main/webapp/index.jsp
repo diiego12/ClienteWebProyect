@@ -1,6 +1,4 @@
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-   "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE  html>
 
 <html>
     <head>
@@ -16,10 +14,14 @@
         </blockquote>
         
         <div class="row">
-            <a class="btn btn-default" href="#" role="button"></a>
-            <div class="col-md-1"><button type="button" class="btn btn-default">Discos</button></div>
+            <a href="#" class="btn btn-default"></a>
+            <div class="col-md-1" href="#Discos"><button type="button" class="btn btn-default">Discos</button></div>
             <div class="col-md-1"><button type="button" class="btn btn-default">Bandas</button></div>
-            <div class="col-md-1"><button type="button" class="btn btn-default">CompaÃ±ia Discografica</button></div>
+            <div class="col-md-1"><button type="button" class="btn btn-default">Compañia Discografica</button></div>
+        </div>
+        
+        <div class="tab-pane" id="Discos">
+            
         </div>
     </body>
 </html>
