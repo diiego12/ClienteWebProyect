@@ -13,17 +13,32 @@
             <h1>Lives & Leves Music<small>Feeling It</small></h1>
         </blockquote>
         
-        <div class="row">
-            <a href="#" class="btn btn-default"></a>
-            <div class="col-md-1" href="#Discos"><button type="button" class="btn btn-default">Discos</button></div>
-            <div class="col-md-1"><button type="button" class="btn btn-default">Bandas</button></div>
-            <div class="col-md-1"><button type="button" class="btn btn-default">Compañia Discografica</button></div>
-        </div>
+    <div class="container">
+        <div class="btn-group btn-group-justified">
+                <div class="btn-group">
+                    <span class="glyphicon glyphicon-headphones"></span>
+                        <a href="#Discos" class="btn btn-success btn-sm">Discos</a>
+                </div>
+            
+                <div class="btn-group">
+                    <span class="glyphicon glyphicon-music"></span>
+                        <a href="#Bandas" class="btn btn-danger btn-sm">Bandas</a>
+                </div>
+                   
+                <div class="btn-group">
+                    <span class="glyphicon glyphicon-bookmark"></span>
+                        <a href="#Dicografica" class="btn btn-warning btn-sm">Compañia Discografica</a>
+                </div>
+        </div>              
+                
+        <br>
+        <br>
+        <br>
+    </div>
+    
+            
+             
+       
         
-        <div class="tab-pane">
-                    <div class="tab-pane" id="Discos">
-                           
-                    </div>
-        </div>
     </body>
 </html>
