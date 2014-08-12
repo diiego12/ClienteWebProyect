@@ -39,9 +39,9 @@
         
             <div class="container" id="Discos">
                 
-                    <h2>
+                    <h1>
                     Discos
-                    </h2>
+                    </h1>
                 <br>
                 <br>
                             <h3>Agregar</h3>
@@ -196,12 +196,15 @@
                                 </form>          
                             </div>            
             </div>
-            
+        <br>
+        <br>
+        <br>
+        
         <div class="container" id="Bandas">
                 
-                    <h2>
+                    <h1>
                     Bandas
-                    </h2>
+                    </h1>
                 <br>
                 <br>
                             <h3>Agregar</h3>
@@ -315,11 +318,14 @@
                             </div> 
                             <br>
                             <br>
-    <div class="container" id="Discografica">
+                            <br>
+    
+                            
+                <div class="container" id="Discografica">
                 
-                    <h2>
+                    <h1>
                     Compañía Discografica
-                    </h2>
+                    </h1>
                 <br>
                 <br>
                             <h3>Agregar</h3>
