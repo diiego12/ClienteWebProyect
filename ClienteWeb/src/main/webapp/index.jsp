@@ -78,13 +78,7 @@
                                                         </div>
                                             </div>
                                             
-                                            <div class="form-group form-group-sm">
-                                                    <label class="col-sm-2 control-label" for="formGroupInputSmall">ID Compañia Discografica:</label>
-                                                        <div class="col-sm-10">
-                                                            <input id="addIdDsc" class="form-control" type="text" id="formGroupInputSmall">
-                                                        </div>
-                                            </div>
-                                                    <br>
+                                            <br>
                                                     <button id="envAddCD" type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-plus"></span> Agregar</button>
                                                 
                                     </form>
@@ -144,13 +138,7 @@
                                                         </div>
                                             </div>
                                             
-                                            <div class="form-group form-group-sm">
-                                                    <label class="col-sm-2 control-label" for="formGroupInputSmall">ID Compañia Discografica:</label>
-                                                        <div class="col-sm-10">
-                                                            <input id="actIdDsc" class="form-control" type="text" id="formGroupInputSmall">
-                                                        </div>
-                                            </div>
-                                                    <br>
+                                            <br>
                                                     <button id="envActCD" type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-refresh"></span> Actualizar</button>
                                                 
                                     </form>
